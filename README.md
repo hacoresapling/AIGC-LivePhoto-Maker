@@ -17,6 +17,24 @@
 
 更进一步，项目内置 **智谱 CogVideoX 图生视频大模型**，当素材为纯静态图片时，AI 将自动为其生成平滑自然的 3 秒动态背景——让每一张照片都"活"起来。
 
+
+
+# 演示视频
+
+https://github.com/hacoresapling/AIGC-LivePhoto-Maker/issues/1#issue-4116147182
+
+
+
+# 生成结果展示
+
+输入静态图，输出长视频转换为实况图：
+
+https://github.com/hacoresapling/AIGC-LivePhoto-Maker/issues/2#issue-4116163054
+
+进一步下载生成文件至手机端，生成live实况图：
+
+https://github.com/hacoresapling/AIGC-LivePhoto-Maker/issues/3#issue-4116183584
+
 ---
 
 ## ✨ 核心亮点
